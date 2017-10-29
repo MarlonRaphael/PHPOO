@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bd9ebc2a-976b-4d8e-acc0-85a8ec524393" name="Aula09b" url="http://localhost/Aula09b">
+        <fileTransfer mountedRoot="C:\xampp\htdocs\Aula09b" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
