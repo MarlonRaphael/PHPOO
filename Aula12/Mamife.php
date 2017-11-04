@@ -14,16 +14,19 @@ class Mamifero extends Animal{
     public function Locomover()
     {
         // TODO: Implement Locomover() method.
+        echo "<br>Correndo";
     }
 
     public function Alimentar()
     {
         // TODO: Implement Alimentar() method.
+        echo "<br>Mamando";
     }
 
     public function EmitirSom()
     {
         // TODO: Implement EmitirSom() method.
+        echo "<br>Som de mamífero";
     }
 
     /**

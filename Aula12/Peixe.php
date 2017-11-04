@@ -14,16 +14,19 @@ class Peixe extends Animal{
     public function Locomover()
     {
         // TODO: Implement Locomover() method.
+        echo "<br>Nadando";
     }
 
     public function Alimentar()
     {
         // TODO: Implement Alimentar() method.
+        echo "<br>Comendo substâncias";
     }
 
     public function EmitirSom()
     {
         // TODO: Implement EmitirSom() method.
+        echo "<br>Peixe não faz som";
     }
     /**
      * @return mixed
@@ -89,6 +92,6 @@ class Peixe extends Animal{
         $this->corEscama = $corEscama;
     }
     public function soltarBolha(){
-
+        echo "<br>Soltou uma bolha";
     }
 }

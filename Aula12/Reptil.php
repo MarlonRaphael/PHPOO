@@ -14,16 +14,19 @@ class Reptil extends Animal{
     public function Locomover()
     {
         // TODO: Implement Locomover() method.
+        echo "<br>Rastejando";
     }
 
     public function Alimentar()
     {
         // TODO: Implement Alimentar() method.
+        echo "<br>Comendo Vegetais";
     }
 
     public function EmitirSom()
     {
         // TODO: Implement EmitirSom() method.
+        echo "<br>Som de Reptil";
     }
 
     /**

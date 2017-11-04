@@ -14,16 +14,19 @@ class Ave extends Animal{
     public function Locomover()
     {
         // TODO: Implement Locomover() method.
+        echo "<br>Voando";
     }
 
     public function Alimentar()
     {
         // TODO: Implement Alimentar() method.
+        echo "<br>Comando frutas";
     }
 
     public function EmitirSom()
     {
         // TODO: Implement EmitirSom() method.
+        echo "<br>Som de ave";
     }
     /**
      * @return mixed
@@ -89,6 +92,6 @@ class Ave extends Animal{
         $this->corPena = $corPena;
     }
     public function fazerNinho(){
-
+        echo "<br>Construiu um ninho";
     }
 }
